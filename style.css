@@ -426,3 +426,45 @@ main {
     font-weight: 500;
     color: #00B0F0;
 }
+
+#formations {
+    width: 100%;
+    height: 550px;
+    display: flex;
+    justify-content: center;
+}
+.container6 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10px;
+}
+.text6 h1 {
+    color: #00B0F0;
+    font-size: 50px;
+}
+
+.container6 ul {
+    list-style: none;
+
+}
+.container6 h3 {
+    color: cyan;
+    margin-top: 30px;
+    font-size: 40px;
+}
+.container6 h4 {
+    color: cyan;
+    font-size: 40px;
+}
+.container6 p {
+    color: white;
+    font-size: 20px;
+}
+
+#experiencepro {
+    width: 100%;
+    height: 550px;
+    display: flex;
+    justify-content: center;
+}
