@@ -110,7 +110,7 @@ main {
     justify-content: center;
 }
 .idpicture {
-    width: 400px;
+    width: 350px;
     height: 400px;
     box-shadow: 15px 15px 40px #00B0F0;
 }
@@ -626,12 +626,12 @@ main {
 
 }
 .container6 h3 {
-    color: cyan;
+    color: #00729b;
     margin-top: 30px;
     font-size: 40px;
 }
 .container6 h4 {
-    color: cyan;
+    color: #00729b;
     font-size: 40px;
 }
 .container6 p {
